@@ -1,4 +1,4 @@
-const socket = io('https://your-backend-url.onrender.com'); // Replace with your Render backend URL
+const socket = io('https://chat-app-backend-l5r3.onrender.com'); // Replace with your Render backend URL
 let username = '';
 
 document.getElementById('startChatBtn').addEventListener('click', () => {
